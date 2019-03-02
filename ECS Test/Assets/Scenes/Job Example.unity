@@ -273,13 +273,79 @@ RectTransform:
   m_Children:
   - {fileID: 2070121409}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!1 &259509749
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 259509752}
+  - component: {fileID: 259509751}
+  - component: {fileID: 259509750}
+  m_Layer: 0
+  m_Name: GameManagerECS
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &259509750
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 259509749}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8938cbf039d25bf419f04a0f75e73ae6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  topBound: 16.5
+  bottomBound: -13.5
+  leftBound: -23.5
+  rightBound: 23.5
+  enemyShipPrefab: {fileID: 2985840440780607957, guid: fceacf0d9aff27f4da234aceba456c15,
+    type: 3}
+  enemySpeed: 1
+  enemyShipCount: 500
+  enemyShipIncremement: 1500
+--- !u!114 &259509751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 259509749}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 624f331c0ff47154b9b98b98b80d2c16, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  countText: {fileID: 1079376338}
+--- !u!4 &259509752
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 259509749}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &853108816
 GameObject:
   m_ObjectHideFlags: 0
@@ -524,7 +590,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1598164568
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -573,6 +639,72 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   countText: {fileID: 1079376338}
+--- !u!1 &2058609508
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2058609511}
+  - component: {fileID: 2058609510}
+  - component: {fileID: 2058609509}
+  m_Layer: 0
+  m_Name: GameManagerJob
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!114 &2058609509
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2058609508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a305e3899d8d9764b8ed15daff47080e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  topBound: 16.5
+  bottomBound: -13.5
+  leftBound: -23.5
+  rightBound: 23.5
+  enemyShipPrefab: {fileID: 8628162277666589451, guid: 21eac83e43a357c4cb3abc9e2067a459,
+    type: 3}
+  enemySpeed: 1
+  enemyShipCount: 500
+  enemyShipIncremement: 1500
+--- !u!114 &2058609510
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2058609508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 624f331c0ff47154b9b98b98b80d2c16, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  countText: {fileID: 1079376338}
+--- !u!4 &2058609511
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2058609508}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2070121408
 GameObject:
   m_ObjectHideFlags: 0

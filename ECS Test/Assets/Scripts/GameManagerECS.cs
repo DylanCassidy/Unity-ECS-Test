@@ -1,9 +1,15 @@
-﻿using UnityEngine;
+﻿using Unity.Collections;
+using Unity.Entities;
+using Unity.Transforms;
 
-public class GameManager : MonoBehaviour
+using UnityEngine;
+
+using float3 = Unity.Mathematics.float3;
+
+public class GameManagerECS : MonoBehaviour
 {
     #region GAME_MANAGER_STUFF
-    public static GameManager GM;
+    public static GameManagerECS GM;
 
     [Header("Simulation Settings")]
     public float topBound = 16.5f;
@@ -35,10 +41,13 @@ public class GameManager : MonoBehaviour
     }
     #endregion
 
+    EntityManager _manager;
+
     void Start()
     {
         _fps = GetComponent<FPS>();
 
+        _manager = World.Active.GetOrCreateManager<EntityManager>();
         AddShips(enemyShipCount);
     }
 
@@ -52,16 +61,19 @@ public class GameManager : MonoBehaviour
 
     void AddShips(int amount)
     {
+        NativeArray<Entity> entities = new NativeArray<Entity>(amount, Allocator.Temp);
+        _manager.Instantiate(enemyShipPrefab, entities);
+
         for (int i = 0; i < amount; i++)
         {
             float xVal = Random.Range(leftBound, rightBound);
             float zVal = Random.Range(0f, 10f);
 
-            Vector3 pos = new Vector3(xVal, 0f, zVal + topBound);
-            Quaternion rot = Quaternion.Euler(0f, 180f, 0f);
-
-            var obj = Instantiate(enemyShipPrefab, pos, rot) as GameObject;
+            _manager.SetComponentData(entities[i], new Position { Value = new float3(xVal, 0f, zVal) });
+            _manager.SetComponentData(entities[i], new Rotation { Value = new Quaternion(0, 1, 0, 0) });
+            _manager.SetComponentData(entities[i], new MoveSpeed { Value = enemySpeed });
         }
+        entities.Dispose();
 
         _count += amount;
         _fps.SetElementCount(_count);

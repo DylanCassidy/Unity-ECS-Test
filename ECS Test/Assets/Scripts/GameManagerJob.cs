@@ -1,9 +1,14 @@
-﻿using UnityEngine;
+﻿using Unity.Collections;
+using Unity.Entities;
+using Unity.Jobs;
 
-public class GameManager : MonoBehaviour
+using UnityEngine;
+using UnityEngine.Jobs;
+
+public class GameManagerJob : MonoBehaviour
 {
     #region GAME_MANAGER_STUFF
-    public static GameManager GM;
+    public static GameManagerJob GM;
 
     [Header("Simulation Settings")]
     public float topBound = 16.5f;
@@ -35,23 +40,52 @@ public class GameManager : MonoBehaviour
     }
     #endregion
 
+    TransformAccessArray _transforms;
+    MovementJob _moveJob;
+    JobHandle _moveHandle;
+
+    private void OnDisable()
+    {
+        _moveHandle.Complete();
+        _transforms.Dispose();
+    }
+
     void Start()
     {
         _fps = GetComponent<FPS>();
+        _transforms = new TransformAccessArray(0 ,-1);
 
         AddShips(enemyShipCount);
     }
 
     void Update()
     {
+        _moveHandle.Complete();
+
         if (Input.GetKeyDown(KeyCode.Space))
         {
             AddShips(enemyShipIncremement);
         }
+
+        _moveJob = new MovementJob()
+        {
+            moveSpeed = enemySpeed,
+            topBound = topBound,
+            bottomBound = bottomBound,
+            deltaTime = Time.deltaTime
+        };
+
+        _moveHandle = _moveJob.Schedule(_transforms);
+
+        JobHandle.ScheduleBatchedJobs();
     }
 
     void AddShips(int amount)
     {
+        _moveHandle.Complete();
+
+        _transforms.capacity = _transforms.length + amount;
+
         for (int i = 0; i < amount; i++)
         {
             float xVal = Random.Range(leftBound, rightBound);
@@ -61,6 +95,8 @@ public class GameManager : MonoBehaviour
             Quaternion rot = Quaternion.Euler(0f, 180f, 0f);
 
             var obj = Instantiate(enemyShipPrefab, pos, rot) as GameObject;
+
+            _transforms.Add(obj.transform);
         }
 
         _count += amount;
