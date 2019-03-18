@@ -1,414 +1,344 @@
- (0,0): [03-02-2019 06:06:04.032 PM] Unity incremental compiler server
- (0,0): [03-02-2019 06:06:04.202 PM] watchdog active on pid: 19980
- (0,0): [03-02-2019 06:10:31.014 PM] Assembly-CSharp.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 06:10:31.031 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 06:10:33.131 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 06:10:33.207 PM] Assembly-CSharp.dll compilation finished in 2175ms  source files re-parsed: 1 metadata reloaded: 201
- (0,0): [03-02-2019 06:10:33.219 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 06:11:06.981 PM] Compiler cache size is now 13.79 MB
- (0,0): [03-02-2019 06:13:01.825 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 06:13:02.195 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 06:13:02.234 PM] Assembly-CSharp.dll compilation finished in 408ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 06:13:02.246 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 06:13:02.258 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 06:18:18.208 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 06:18:18.514 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 06:18:18.550 PM] Assembly-CSharp.dll compilation finished in 342ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 06:18:18.562 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 06:18:18.573 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 06:28:27.475 PM] Assembly-CSharp.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 06:28:27.488 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 06:28:27.528 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 06:28:27.573 PM] Assembly-CSharp.dll compilation finished in 85ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 06:28:27.585 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 06:28:54.110 PM] Assembly-CSharp.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 06:28:54.122 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 06:28:54.175 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 06:28:54.215 PM] Assembly-CSharp.dll compilation finished in 93ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [03-02-2019 06:28:54.227 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 06:29:59.052 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 06:29:59.087 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 06:29:59.120 PM] Assembly-CSharp.dll compilation finished in 68ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [03-02-2019 06:29:59.132 PM] Assembly-CSharp.dll: compilation was cached, 2 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 06:29:59.144 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 06:31:49.348 PM] Assembly-CSharp.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 06:31:49.361 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 06:31:49.394 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 06:31:49.430 PM] Assembly-CSharp.dll compilation finished in 69ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [03-02-2019 06:31:49.442 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 06:38:11.281 PM] Assembly-CSharp.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 06:38:11.295 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 06:38:11.338 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 06:38:11.373 PM] Assembly-CSharp.dll compilation finished in 79ms  source files re-parsed: 3 metadata reloaded: 0
- (0,0): [03-02-2019 06:38:11.385 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 06:40:42.973 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 06:40:43.077 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 06:40:43.095 PM] Assembly-CSharp.dll compilation finished in 122ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 06:40:43.107 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 06:40:43.120 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 06:41:06.603 PM] Assembly-CSharp.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 06:41:06.615 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 06:41:06.650 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 06:41:06.671 PM] Assembly-CSharp.dll compilation finished in 56ms  source files re-parsed: 4 metadata reloaded: 0
- (0,0): [03-02-2019 06:41:06.683 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 06:51:43.285 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 06:51:43.561 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 06:51:43.599 PM] Assembly-CSharp.dll compilation finished in 314ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 06:51:43.611 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 06:51:43.623 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 06:56:14.855 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 06:56:14.893 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 06:56:14.927 PM] Assembly-CSharp.dll compilation finished in 71ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 06:56:14.939 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 06:56:14.951 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 06:59:09.706 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 06:59:09.750 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 06:59:09.787 PM] Assembly-CSharp.dll compilation finished in 81ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 06:59:09.799 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 06:59:09.811 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 06:59:48.769 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 06:59:48.806 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 06:59:48.841 PM] Assembly-CSharp.dll compilation finished in 72ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 06:59:48.854 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 06:59:48.866 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 07:14:05.865 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 07:14:05.905 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 07:14:05.943 PM] Assembly-CSharp.dll compilation finished in 77ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 07:14:05.955 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 07:14:05.967 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 07:16:15.916 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 07:16:15.954 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 07:16:15.992 PM] Assembly-CSharp.dll compilation finished in 75ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 07:16:16.004 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 07:16:16.016 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 07:16:48.500 PM] Assembly-CSharp.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 07:16:48.513 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 07:16:48.553 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 07:16:48.594 PM] Assembly-CSharp.dll compilation finished in 81ms  source files re-parsed: 5 metadata reloaded: 0
- (0,0): [03-02-2019 07:16:48.606 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 07:20:02.498 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 07:20:02.540 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 07:20:02.558 PM] Assembly-CSharp.dll compilation finished in 60ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [03-02-2019 07:20:02.571 PM] Assembly-CSharp.dll: compilation was cached, 2 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 07:20:02.583 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 07:21:11.609 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 07:21:11.646 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 07:21:11.684 PM] Assembly-CSharp.dll compilation finished in 75ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 07:21:11.696 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 07:21:11.708 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 07:22:45.471 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 07:22:45.510 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 07:22:45.547 PM] Assembly-CSharp.dll compilation finished in 75ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 07:22:45.559 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 07:22:45.571 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 07:31:28.186 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 07:31:28.228 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 07:31:28.264 PM] Assembly-CSharp.dll compilation finished in 78ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 07:31:28.276 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 07:31:28.288 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 07:32:40.785 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 07:32:40.842 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 07:32:40.881 PM] Assembly-CSharp.dll compilation finished in 95ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 07:32:40.893 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 07:32:40.905 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 07:34:31.512 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 07:34:31.552 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 07:34:31.587 PM] Assembly-CSharp.dll compilation finished in 75ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 07:34:31.599 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 07:34:31.611 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 07:38:59.889 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 07:38:59.923 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 07:38:59.958 PM] Assembly-CSharp.dll compilation finished in 69ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 07:38:59.970 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 07:38:59.982 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 07:41:20.655 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 07:41:20.690 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 07:41:20.724 PM] Assembly-CSharp.dll compilation finished in 69ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 07:41:20.736 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 07:41:20.748 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 07:42:07.986 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 07:42:08.020 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 07:42:08.054 PM] Assembly-CSharp.dll compilation finished in 68ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 07:42:08.066 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 07:42:08.078 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 07:42:51.566 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 07:42:51.605 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 07:42:51.640 PM] Assembly-CSharp.dll compilation finished in 73ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 07:42:51.652 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 07:42:51.664 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 07:43:17.184 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 07:43:17.219 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 07:43:17.257 PM] Assembly-CSharp.dll compilation finished in 72ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 07:43:17.269 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 07:43:17.281 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 07:46:35.147 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 07:46:35.189 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 07:46:35.227 PM] Assembly-CSharp.dll compilation finished in 80ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 07:46:35.239 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 07:46:35.251 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 07:46:59.410 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 07:46:59.445 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 07:46:59.480 PM] Assembly-CSharp.dll compilation finished in 70ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 07:46:59.492 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 07:46:59.504 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 07:47:56.508 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 07:47:56.543 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 07:47:56.578 PM] Assembly-CSharp.dll compilation finished in 69ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 07:47:56.590 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 07:47:56.602 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 07:48:31.096 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 07:48:31.130 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 07:48:31.169 PM] Assembly-CSharp.dll compilation finished in 72ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 07:48:31.181 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 07:48:31.193 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 07:49:15.776 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 07:49:15.818 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 07:49:15.852 PM] Assembly-CSharp.dll compilation finished in 76ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 07:49:15.864 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 07:49:15.876 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 07:52:12.518 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 07:52:12.555 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 07:52:12.593 PM] Assembly-CSharp.dll compilation finished in 75ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 07:52:12.605 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 07:52:12.617 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 07:53:07.008 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 07:53:07.046 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 07:53:07.087 PM] Assembly-CSharp.dll compilation finished in 79ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 07:53:07.099 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 07:53:07.111 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 07:54:40.446 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 07:54:40.483 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 07:54:40.520 PM] Assembly-CSharp.dll compilation finished in 73ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 07:54:40.531 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 07:54:40.543 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 08:02:08.339 PM] Assembly-CSharp.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 08:02:08.351 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 08:02:08.388 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 08:02:08.429 PM] Assembly-CSharp.dll compilation finished in 78ms  source files re-parsed: 6 metadata reloaded: 0
- (0,0): [03-02-2019 08:02:08.441 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 08:06:50.657 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 08:06:50.717 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 08:06:50.752 PM] Assembly-CSharp.dll compilation finished in 94ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 08:06:50.764 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 08:06:50.776 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 08:07:06.720 PM] Assembly-CSharp.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 08:07:06.732 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 08:07:06.771 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 08:07:06.824 PM] Assembly-CSharp.dll compilation finished in 92ms  source files re-parsed: 7 metadata reloaded: 0
- (0,0): [03-02-2019 08:07:06.838 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 08:15:00.181 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 08:15:00.256 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 08:15:00.294 PM] Assembly-CSharp.dll compilation finished in 112ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 08:15:00.306 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 08:15:00.318 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 08:22:35.175 PM] Assembly-CSharp.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 08:22:35.187 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 08:22:35.229 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 08:22:35.267 PM] Assembly-CSharp.dll compilation finished in 80ms  source files re-parsed: 8 metadata reloaded: 0
- (0,0): [03-02-2019 08:22:35.279 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 08:26:59.830 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 08:26:59.874 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 08:26:59.887 PM] Assembly-CSharp.dll compilation finished in 56ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 08:26:59.899 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 08:26:59.911 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 08:27:11.034 PM] Assembly-CSharp.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 08:27:11.046 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 08:27:11.079 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 08:27:11.092 PM] Assembly-CSharp.dll compilation finished in 45ms  source files re-parsed: 9 metadata reloaded: 0
- (0,0): [03-02-2019 08:27:11.104 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 08:34:46.927 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 08:34:47.010 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 08:34:47.032 PM] Assembly-CSharp.dll compilation finished in 105ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 08:34:47.044 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 08:34:47.056 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 08:34:57.932 PM] Assembly-CSharp.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 08:34:57.945 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 08:34:57.981 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 08:34:57.995 PM] Assembly-CSharp.dll compilation finished in 50ms  source files re-parsed: 10 metadata reloaded: 0
- (0,0): [03-02-2019 08:34:58.007 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 08:50:14.923 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 08:50:15.001 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 08:50:15.050 PM] Assembly-CSharp.dll compilation finished in 126ms  source files re-parsed: 3 metadata reloaded: 0
- (0,0): [03-02-2019 08:50:15.062 PM] Assembly-CSharp.dll: compilation was cached, 3 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 08:50:15.074 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 08:56:52.369 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 08:56:52.402 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 08:56:52.415 PM] Assembly-CSharp.dll compilation finished in 45ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 08:56:52.427 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 08:56:52.439 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 08:58:22.660 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 08:58:22.695 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 08:58:22.708 PM] Assembly-CSharp.dll compilation finished in 47ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [03-02-2019 08:58:22.720 PM] Assembly-CSharp.dll: compilation was cached, 2 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 08:58:22.732 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 08:59:41.075 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 08:59:41.117 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 08:59:41.131 PM] Assembly-CSharp.dll compilation finished in 55ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 08:59:41.143 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 08:59:41.155 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:00:11.013 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 09:00:11.049 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 09:00:11.101 PM] Assembly-CSharp.dll compilation finished in 87ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [03-02-2019 09:00:11.113 PM] Assembly-CSharp.dll: compilation was cached, 2 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 09:00:11.125 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:01:11.853 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 09:01:11.892 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 09:01:11.942 PM] Assembly-CSharp.dll compilation finished in 88ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 09:01:11.954 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 09:01:11.969 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:02:43.205 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 09:02:43.241 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 09:02:43.289 PM] Assembly-CSharp.dll compilation finished in 83ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 09:02:43.301 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 09:02:43.313 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:07:19.261 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 09:07:19.299 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 09:07:19.357 PM] Assembly-CSharp.dll compilation finished in 95ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 09:07:19.369 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 09:07:19.381 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:10:02.801 PM] Unity.Mathematics.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 09:10:02.822 PM] Unity.Mathematics.dll compiling...
- (0,0): [03-02-2019 09:10:02.888 PM] Unity.Entities.StaticTypeRegistry.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 09:10:02.901 PM] Unity.Entities.StaticTypeRegistry.dll compiling...
- (0,0): [03-02-2019 09:10:03.062 PM] Unity.Entities.StaticTypeRegistry.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Entities.StaticTypeRegistry.dll
- (0,0): [03-02-2019 09:10:03.095 PM] Unity.Burst.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 09:10:03.139 PM] Unity.Burst.dll compiling...
- (0,0): [03-02-2019 09:10:03.145 PM] Unity.Properties.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 09:10:03.154 PM] Unity.Entities.StaticTypeRegistry.dll compilation finished in 253ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [03-02-2019 09:10:03.157 PM] Unity.Properties.dll compiling...
- (0,0): [03-02-2019 09:10:03.166 PM] Unity.Entities.StaticTypeRegistry.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:10:03.268 PM] Unity.PackageManagerUI.Editor.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 09:10:03.281 PM] Unity.PackageManagerUI.Editor.dll compiling...
- (0,0): [03-02-2019 09:10:03.877 PM] Unity.Burst.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Burst.dll
- (0,0): [03-02-2019 09:10:03.993 PM] Unity.Burst.dll compilation finished in 853ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [03-02-2019 09:10:04.021 PM] Unity.Burst.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:10:04.822 PM] Unity.PackageManagerUI.Editor.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.PackageManagerUI.Editor.dll
- (0,0): [03-02-2019 09:10:04.905 PM] Unity.Properties.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Properties.dll
- (0,0): [03-02-2019 09:10:04.952 PM] Unity.Burst.Editor.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 09:10:04.965 PM] Unity.Burst.Editor.dll compiling...
- (0,0): [03-02-2019 09:10:05.004 PM] Unity.PackageManagerUI.Editor.dll compilation finished in 1722ms  source files re-parsed: 52 metadata reloaded: 119
- (0,0): [03-02-2019 09:10:05.031 PM] Unity.PackageManagerUI.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:10:05.005 PM] Unity.Properties.dll compilation finished in 1847ms  source files re-parsed: 29 metadata reloaded: 0
- (0,0): [03-02-2019 09:10:05.104 PM] Unity.Properties.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:10:05.259 PM] Unity.Burst.Editor.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Burst.Editor.dll
- (0,0): [03-02-2019 09:10:05.374 PM] Unity.Burst.Editor.dll compilation finished in 409ms  source files re-parsed: 11 metadata reloaded: 1
- (0,0): [03-02-2019 09:10:05.386 PM] Unity.Burst.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:10:05.417 PM] Unity.Properties.Codegen.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 09:10:05.429 PM] Unity.Properties.Codegen.dll compiling...
- (0,0): [03-02-2019 09:10:05.516 PM] Unity.Properties.Codegen.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Properties.Codegen.dll
- (0,0): [03-02-2019 09:10:05.603 PM] Unity.Properties.Codegen.dll compilation finished in 174ms  source files re-parsed: 7 metadata reloaded: 1
- (0,0): [03-02-2019 09:10:05.615 PM] Unity.Properties.Codegen.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:10:06.250 PM] Unity.Mathematics.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Mathematics.dll
- (0,0): [03-02-2019 09:10:06.340 PM] Unity.Mathematics.dll compilation finished in 3517ms  source files re-parsed: 85 metadata reloaded: 9
- (0,0): [03-02-2019 09:10:06.352 PM] Unity.Mathematics.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:10:06.745 PM] Unity.Collections.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 09:10:06.757 PM] Unity.Collections.dll compiling...
- (0,0): [03-02-2019 09:10:06.862 PM] Unity.Mathematics.Editor.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 09:10:06.870 PM] Unity.Collections.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Collections.dll
- (0,0): [03-02-2019 09:10:06.874 PM] Unity.Mathematics.Editor.dll compiling...
- (0,0): [03-02-2019 09:10:06.946 PM] Unity.Mathematics.Editor.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Mathematics.Editor.dll
- (0,0): [03-02-2019 09:10:06.959 PM] Unity.Collections.dll compilation finished in 203ms  source files re-parsed: 12 metadata reloaded: 1
- (0,0): [03-02-2019 09:10:06.971 PM] Unity.Collections.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:10:06.998 PM] Unity.Mathematics.Editor.dll compilation finished in 124ms  source files re-parsed: 4 metadata reloaded: 0
- (0,0): [03-02-2019 09:10:07.010 PM] Unity.Mathematics.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:10:07.268 PM] Unity.Entities.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 09:10:07.280 PM] Unity.Entities.dll compiling...
- (0,0): [03-02-2019 09:10:07.390 PM] Unity.Jobs.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 09:10:07.449 PM] Unity.Jobs.dll compiling...
- (0,0): [03-02-2019 09:10:07.500 PM] Unity.Collections.Tests.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 09:10:07.649 PM] Unity.Collections.Tests.dll compiling...
- (0,0): [03-02-2019 09:10:07.683 PM] Unity.Jobs.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Jobs.dll
- (0,0): [03-02-2019 09:10:07.782 PM] Unity.Jobs.dll compilation finished in 333ms  source files re-parsed: 3 metadata reloaded: 0
- (0,0): [03-02-2019 09:10:07.829 PM] Unity.Jobs.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:10:07.966 PM] Unity.Collections.Tests.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Collections.Tests.dll
- (0,0): [03-02-2019 09:10:08.070 PM] Unity.Collections.Tests.dll compilation finished in 420ms  source files re-parsed: 17 metadata reloaded: 3
- (0,0): [03-02-2019 09:10:08.082 PM] Unity.Collections.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:10:08.194 PM] Unity.Jobs.Tests.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 09:10:08.206 PM] Unity.Jobs.Tests.dll compiling...
- (0,0): [03-02-2019 09:10:08.264 PM] Unity.Jobs.Tests.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Jobs.Tests.dll
- (0,0): [03-02-2019 09:10:08.274 PM] Unity.Entities.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Entities.dll
- (0,0): [03-02-2019 09:10:08.291 PM] Unity.Jobs.Editor.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 09:10:08.304 PM] Unity.Jobs.Editor.dll compiling...
- (0,0): [03-02-2019 09:10:08.313 PM] Unity.Jobs.Tests.dll compilation finished in 107ms  source files re-parsed: 2 metadata reloaded: 1
- (0,0): [03-02-2019 09:10:08.326 PM] Unity.Jobs.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:10:08.341 PM] Unity.Jobs.Editor.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Jobs.Editor.dll
- (0,0): [03-02-2019 09:10:08.383 PM] Unity.Jobs.Editor.dll compilation finished in 79ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 09:10:08.395 PM] Unity.Jobs.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:10:08.437 PM] Unity.Entities.dll compilation finished in 1156ms  source files re-parsed: 63 metadata reloaded: 2
- (0,0): [03-02-2019 09:10:08.449 PM] Unity.Entities.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:10:08.812 PM] Unity.Entities.Hybrid.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 09:10:08.824 PM] Unity.Entities.Hybrid.dll compiling...
- (0,0): [03-02-2019 09:10:08.902 PM] Unity.Entities.Hybrid.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Entities.Hybrid.dll
- (0,0): [03-02-2019 09:10:08.918 PM] Unity.Transforms.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 09:10:08.930 PM] Unity.Transforms.dll compiling...
- (0,0): [03-02-2019 09:10:08.974 PM] Unity.Entities.Hybrid.dll compilation finished in 150ms  source files re-parsed: 24 metadata reloaded: 1
- (0,0): [03-02-2019 09:10:09.000 PM] Unity.Entities.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:10:09.028 PM] Unity.Transforms.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Transforms.dll
- (0,0): [03-02-2019 09:10:09.093 PM] Unity.Transforms.dll compilation finished in 163ms  source files re-parsed: 9 metadata reloaded: 0
- (0,0): [03-02-2019 09:10:09.105 PM] Unity.Transforms.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:10:09.506 PM] Unity.Transforms.Hybrid.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 09:10:09.518 PM] Unity.Transforms.Hybrid.dll compiling...
- (0,0): [03-02-2019 09:10:09.562 PM] Unity.Transforms.Hybrid.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Transforms.Hybrid.dll
- (0,0): [03-02-2019 09:10:09.590 PM] Unity.Entities.Properties.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 09:10:09.602 PM] Unity.Entities.Properties.dll compiling...
- (0,0): [03-02-2019 09:10:09.611 PM] Unity.Transforms.Hybrid.dll compilation finished in 93ms  source files re-parsed: 14 metadata reloaded: 2
- (0,0): [03-02-2019 09:10:09.623 PM] Unity.Transforms.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:10:09.678 PM] Unity.Entities.Properties.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Entities.Properties.dll
- (0,0): [03-02-2019 09:10:09.748 PM] Unity.Entities.Properties.dll compilation finished in 146ms  source files re-parsed: 14 metadata reloaded: 0
- (0,0): [03-02-2019 09:10:09.761 PM] Unity.Entities.Properties.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:10:10.119 PM] Unity.Rendering.Hybrid.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 09:10:10.131 PM] Unity.Rendering.Hybrid.dll compiling...
- (0,0): [03-02-2019 09:10:10.239 PM] Unity.Rendering.Hybrid.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Rendering.Hybrid.dll
- (0,0): [03-02-2019 09:10:10.280 PM] Unity.Entities.Editor.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 09:10:10.315 PM] Unity.Entities.Editor.dll compiling...
- (0,0): [03-02-2019 09:10:10.341 PM] Unity.Rendering.Hybrid.dll compilation finished in 210ms  source files re-parsed: 23 metadata reloaded: 1
- (0,0): [03-02-2019 09:10:10.354 PM] Unity.Rendering.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:10:10.449 PM] Unity.Entities.Editor.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Entities.Editor.dll
- (0,0): [03-02-2019 09:10:10.534 PM] Unity.Entities.Editor.dll compilation finished in 219ms  source files re-parsed: 30 metadata reloaded: 1
- (0,0): [03-02-2019 09:10:10.546 PM] Unity.Entities.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:10:10.798 PM] Unity.Transforms.Editor.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 09:10:10.810 PM] Unity.Transforms.Editor.dll compiling...
- (0,0): [03-02-2019 09:10:10.855 PM] Unity.Transforms.Editor.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Transforms.Editor.dll
- (0,0): [03-02-2019 09:10:10.890 PM] Unity.Transforms.Editor.dll compilation finished in 80ms  source files re-parsed: 1 metadata reloaded: 1
- (0,0): [03-02-2019 09:10:10.902 PM] Unity.Transforms.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:10:11.092 PM] Assembly-CSharp.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 09:10:11.104 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 09:10:11.149 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 09:10:11.196 PM] Assembly-CSharp.dll compilation finished in 92ms  source files re-parsed: 10 metadata reloaded: 7
- (0,0): [03-02-2019 09:10:11.208 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:10:50.827 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 09:10:50.869 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 09:10:50.888 PM] Assembly-CSharp.dll compilation finished in 61ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 09:10:50.901 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 09:10:50.913 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:12:48.311 PM] Compiler cache size is now 18.84 MB
- (0,0): [03-02-2019 09:15:17.983 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 09:15:18.020 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 09:15:18.070 PM] Assembly-CSharp.dll compilation finished in 86ms  source files re-parsed: 2 metadata reloaded: 0
- (0,0): [03-02-2019 09:15:18.082 PM] Assembly-CSharp.dll: compilation was cached, 2 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 09:15:18.094 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:18:12.763 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 09:18:12.805 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 09:18:12.862 PM] Assembly-CSharp.dll compilation finished in 98ms  source files re-parsed: 3 metadata reloaded: 0
- (0,0): [03-02-2019 09:18:12.874 PM] Assembly-CSharp.dll: compilation was cached, 3 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 09:18:12.885 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:20:17.829 PM] Assembly-CSharp.dll: no prior compilation found in cache. Caller PID: 19980
- (0,0): [03-02-2019 09:20:17.841 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 09:20:17.883 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 09:20:17.933 PM] Assembly-CSharp.dll compilation finished in 92ms  source files re-parsed: 10 metadata reloaded: 0
- (0,0): [03-02-2019 09:20:17.945 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:21:01.497 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 09:21:01.534 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 09:21:01.581 PM] Assembly-CSharp.dll compilation finished in 83ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 09:21:01.593 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 09:21:01.605 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:25:38.986 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 09:25:39.027 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 09:25:39.075 PM] Assembly-CSharp.dll compilation finished in 90ms  source files re-parsed: 1 metadata reloaded: 0
- (0,0): [03-02-2019 09:25:39.087 PM] Assembly-CSharp.dll: compilation was cached, 1 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 09:25:39.098 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
- (0,0): [03-02-2019 09:39:25.472 PM] Assembly-CSharp.dll compiling...
- (0,0): [03-02-2019 09:39:25.516 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
- (0,0): [03-02-2019 09:39:25.568 PM] Assembly-CSharp.dll compilation finished in 96ms  source files re-parsed: 4 metadata reloaded: 0
- (0,0): [03-02-2019 09:39:25.580 PM] Assembly-CSharp.dll: compilation was cached, 4 file(s) were found to have changed. Caller PID: 19980
- (0,0): [03-02-2019 09:39:25.592 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 19980
+ (0,0): [03-18-2019 09:29:18.340 PM] Unity incremental compiler server
+ (0,0): [03-18-2019 09:29:18.533 PM] watchdog active on pid: 6028
+ (0,0): [03-18-2019 09:29:47.409 PM] Unity.PackageManagerUI.Editor.dll: no prior compilation found in cache. Caller PID: 6028
+ (0,0): [03-18-2019 09:29:47.424 PM] Unity.PackageManagerUI.Editor.dll compiling...
+ (0,0): [03-18-2019 09:29:51.752 PM] Unity.PackageManagerUI.Editor.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.PackageManagerUI.Editor.dll
+ (0,0): [03-18-2019 09:29:51.865 PM] Unity.PackageManagerUI.Editor.dll compilation finished in 4440ms  source files re-parsed: 52 metadata reloaded: 196
+ (0,0): [03-18-2019 09:29:51.877 PM] Unity.PackageManagerUI.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:29:52.055 PM] Assembly-CSharp.dll: no prior compilation found in cache. Caller PID: 6028
+ (0,0): [03-18-2019 09:29:52.067 PM] Assembly-CSharp.dll compiling...
+ (0,0): [03-18-2019 09:29:52.227 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
+ (0,0): [03-18-2019 09:29:52.314 PM] Assembly-CSharp.dll compilation finished in 247ms  source files re-parsed: 10 metadata reloaded: 134
+ (0,0): [03-18-2019 09:29:52.326 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:30:29.862 PM] Unity.Mathematics.dll: no prior compilation found in cache. Caller PID: 6028
+ (0,0): [03-18-2019 09:30:29.875 PM] Unity.Mathematics.dll compiling...
+ (0,0): [03-18-2019 09:30:30.136 PM] Unity.Entities.StaticTypeRegistry.dll: no prior compilation found in cache. Caller PID: 6028
+ (0,0): [03-18-2019 09:30:30.170 PM] Unity.Entities.StaticTypeRegistry.dll compiling...
+ (0,0): [03-18-2019 09:30:30.137 PM] Unity.Burst.dll: no prior compilation found in cache. Caller PID: 6028
+ (0,0): [03-18-2019 09:30:30.204 PM] Unity.Burst.dll compiling...
+ (0,0): [03-18-2019 09:30:30.205 PM] Unity.Properties.dll: no prior compilation found in cache. Caller PID: 6028
+ (0,0): [03-18-2019 09:30:30.229 PM] Unity.Properties.dll compiling...
+ (0,0): [03-18-2019 09:30:30.232 PM] Unity.Entities.StaticTypeRegistry.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Entities.StaticTypeRegistry.dll
+ (0,0): [03-18-2019 09:30:30.239 PM] Unity.PackageManagerUI.Editor.dll compiling...
+ (0,0): [03-18-2019 09:30:30.315 PM] Unity.Entities.StaticTypeRegistry.dll compilation finished in 144ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [03-18-2019 09:30:30.349 PM] Unity.Entities.StaticTypeRegistry.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:30:30.420 PM] Unity.Burst.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Burst.dll
+ (0,0): [03-18-2019 09:30:30.744 PM] Unity.Burst.dll compilation finished in 540ms  source files re-parsed: 2 metadata reloaded: 0
+ (0,0): [03-18-2019 09:30:30.807 PM] Unity.Burst.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:30:30.906 PM] Unity.PackageManagerUI.Editor.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.PackageManagerUI.Editor.dll
+ (0,0): [03-18-2019 09:30:31.312 PM] Unity.PackageManagerUI.Editor.dll compilation finished in 1072ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [03-18-2019 09:30:31.321 PM] Unity.Burst.Editor.dll: no prior compilation found in cache. Caller PID: 6028
+ (0,0): [03-18-2019 09:30:31.549 PM] Unity.PackageManagerUI.Editor.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:30:31.592 PM] Unity.Properties.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Properties.dll
+ (0,0): [03-18-2019 09:30:31.684 PM] Unity.Burst.Editor.dll compiling...
+ (0,0): [03-18-2019 09:30:31.691 PM] Unity.PackageManagerUI.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:30:32.003 PM] Unity.Properties.dll compilation finished in 1775ms  source files re-parsed: 29 metadata reloaded: 0
+ (0,0): [03-18-2019 09:30:32.018 PM] Unity.Properties.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:30:32.181 PM] Unity.Burst.Editor.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Burst.Editor.dll
+ (0,0): [03-18-2019 09:30:32.290 PM] Unity.Burst.Editor.dll compilation finished in 606ms  source files re-parsed: 11 metadata reloaded: 1
+ (0,0): [03-18-2019 09:30:32.305 PM] Unity.Burst.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:30:32.425 PM] Unity.Properties.Codegen.dll: no prior compilation found in cache. Caller PID: 6028
+ (0,0): [03-18-2019 09:30:32.438 PM] Unity.Properties.Codegen.dll compiling...
+ (0,0): [03-18-2019 09:30:32.551 PM] Unity.Properties.Codegen.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Properties.Codegen.dll
+ (0,0): [03-18-2019 09:30:32.629 PM] Unity.Properties.Codegen.dll compilation finished in 191ms  source files re-parsed: 7 metadata reloaded: 1
+ (0,0): [03-18-2019 09:30:32.641 PM] Unity.Properties.Codegen.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:30:33.506 PM] Unity.Mathematics.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Mathematics.dll
+ (0,0): [03-18-2019 09:30:33.576 PM] Unity.Mathematics.dll compilation finished in 3701ms  source files re-parsed: 85 metadata reloaded: 0
+ (0,0): [03-18-2019 09:30:33.588 PM] Unity.Mathematics.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:30:33.950 PM] Unity.Collections.dll: no prior compilation found in cache. Caller PID: 6028
+ (0,0): [03-18-2019 09:30:33.962 PM] Unity.Collections.dll compiling...
+ (0,0): [03-18-2019 09:30:34.079 PM] Unity.Mathematics.Editor.dll: no prior compilation found in cache. Caller PID: 6028
+ (0,0): [03-18-2019 09:30:34.088 PM] Unity.Collections.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Collections.dll
+ (0,0): [03-18-2019 09:30:34.091 PM] Unity.Mathematics.Editor.dll compiling...
+ (0,0): [03-18-2019 09:30:34.187 PM] Unity.Mathematics.Editor.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Mathematics.Editor.dll
+ (0,0): [03-18-2019 09:30:34.189 PM] Unity.Collections.dll compilation finished in 227ms  source files re-parsed: 12 metadata reloaded: 1
+ (0,0): [03-18-2019 09:30:34.201 PM] Unity.Collections.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:30:34.245 PM] Unity.Mathematics.Editor.dll compilation finished in 154ms  source files re-parsed: 4 metadata reloaded: 0
+ (0,0): [03-18-2019 09:30:34.257 PM] Unity.Mathematics.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:30:34.580 PM] Unity.Entities.dll: no prior compilation found in cache. Caller PID: 6028
+ (0,0): [03-18-2019 09:30:34.592 PM] Unity.Entities.dll compiling...
+ (0,0): [03-18-2019 09:30:34.725 PM] Unity.Jobs.dll: no prior compilation found in cache. Caller PID: 6028
+ (0,0): [03-18-2019 09:30:34.738 PM] Unity.Jobs.dll compiling...
+ (0,0): [03-18-2019 09:30:34.821 PM] Unity.Collections.Tests.dll: no prior compilation found in cache. Caller PID: 6028
+ (0,0): [03-18-2019 09:30:34.835 PM] Unity.Collections.Tests.dll compiling...
+ (0,0): [03-18-2019 09:30:34.991 PM] Unity.Jobs.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Jobs.dll
+ (0,0): [03-18-2019 09:30:35.161 PM] Unity.Jobs.dll compilation finished in 423ms  source files re-parsed: 3 metadata reloaded: 0
+ (0,0): [03-18-2019 09:30:35.205 PM] Unity.Jobs.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:30:35.398 PM] Unity.Collections.Tests.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Collections.Tests.dll
+ (0,0): [03-18-2019 09:30:35.544 PM] Unity.Collections.Tests.dll compilation finished in 709ms  source files re-parsed: 17 metadata reloaded: 3
+ (0,0): [03-18-2019 09:30:35.558 PM] Unity.Collections.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:30:35.671 PM] Unity.Jobs.Tests.dll: no prior compilation found in cache. Caller PID: 6028
+ (0,0): [03-18-2019 09:30:35.684 PM] Unity.Jobs.Tests.dll compiling...
+ (0,0): [03-18-2019 09:30:35.721 PM] Unity.Entities.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Entities.dll
+ (0,0): [03-18-2019 09:30:35.744 PM] Unity.Jobs.Tests.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Jobs.Tests.dll
+ (0,0): [03-18-2019 09:30:35.765 PM] Unity.Jobs.Editor.dll: no prior compilation found in cache. Caller PID: 6028
+ (0,0): [03-18-2019 09:30:35.777 PM] Unity.Jobs.Editor.dll compiling...
+ (0,0): [03-18-2019 09:30:35.798 PM] Unity.Jobs.Tests.dll compilation finished in 114ms  source files re-parsed: 2 metadata reloaded: 1
+ (0,0): [03-18-2019 09:30:35.810 PM] Unity.Jobs.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:30:35.817 PM] Unity.Jobs.Editor.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Jobs.Editor.dll
+ (0,0): [03-18-2019 09:30:35.855 PM] Unity.Jobs.Editor.dll compilation finished in 78ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [03-18-2019 09:30:35.867 PM] Unity.Jobs.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:30:35.886 PM] Unity.Entities.dll compilation finished in 1294ms  source files re-parsed: 63 metadata reloaded: 2
+ (0,0): [03-18-2019 09:30:35.898 PM] Unity.Entities.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:30:36.257 PM] Unity.Entities.Hybrid.dll: no prior compilation found in cache. Caller PID: 6028
+ (0,0): [03-18-2019 09:30:36.270 PM] Unity.Entities.Hybrid.dll compiling...
+ (0,0): [03-18-2019 09:30:36.378 PM] Unity.Transforms.dll: no prior compilation found in cache. Caller PID: 6028
+ (0,0): [03-18-2019 09:30:36.386 PM] Unity.Entities.Hybrid.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Entities.Hybrid.dll
+ (0,0): [03-18-2019 09:30:36.390 PM] Unity.Transforms.dll compiling...
+ (0,0): [03-18-2019 09:30:36.491 PM] Unity.Entities.Hybrid.dll compilation finished in 221ms  source files re-parsed: 24 metadata reloaded: 1
+ (0,0): [03-18-2019 09:30:36.512 PM] Unity.Entities.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:30:36.517 PM] Unity.Transforms.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Transforms.dll
+ (0,0): [03-18-2019 09:30:36.587 PM] Unity.Transforms.dll compilation finished in 197ms  source files re-parsed: 9 metadata reloaded: 0
+ (0,0): [03-18-2019 09:30:36.599 PM] Unity.Transforms.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:30:37.072 PM] Unity.Transforms.Hybrid.dll: no prior compilation found in cache. Caller PID: 6028
+ (0,0): [03-18-2019 09:30:37.085 PM] Unity.Transforms.Hybrid.dll compiling...
+ (0,0): [03-18-2019 09:30:37.153 PM] Unity.Transforms.Hybrid.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Transforms.Hybrid.dll
+ (0,0): [03-18-2019 09:30:37.177 PM] Unity.Entities.Properties.dll: no prior compilation found in cache. Caller PID: 6028
+ (0,0): [03-18-2019 09:30:37.189 PM] Unity.Entities.Properties.dll compiling...
+ (0,0): [03-18-2019 09:30:37.208 PM] Unity.Transforms.Hybrid.dll compilation finished in 123ms  source files re-parsed: 14 metadata reloaded: 2
+ (0,0): [03-18-2019 09:30:37.220 PM] Unity.Transforms.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:30:37.263 PM] Unity.Entities.Properties.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Entities.Properties.dll
+ (0,0): [03-18-2019 09:30:37.330 PM] Unity.Entities.Properties.dll compilation finished in 141ms  source files re-parsed: 14 metadata reloaded: 0
+ (0,0): [03-18-2019 09:30:37.342 PM] Unity.Entities.Properties.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:30:37.677 PM] Unity.Rendering.Hybrid.dll: no prior compilation found in cache. Caller PID: 6028
+ (0,0): [03-18-2019 09:30:37.689 PM] Unity.Rendering.Hybrid.dll compiling...
+ (0,0): [03-18-2019 09:30:37.792 PM] Unity.Rendering.Hybrid.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Rendering.Hybrid.dll
+ (0,0): [03-18-2019 09:30:37.853 PM] Unity.Entities.Editor.dll: no prior compilation found in cache. Caller PID: 6028
+ (0,0): [03-18-2019 09:30:37.866 PM] Unity.Entities.Editor.dll compiling...
+ (0,0): [03-18-2019 09:30:37.872 PM] Unity.Rendering.Hybrid.dll compilation finished in 183ms  source files re-parsed: 23 metadata reloaded: 1
+ (0,0): [03-18-2019 09:30:37.899 PM] Unity.Rendering.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:30:38.067 PM] Unity.Entities.Editor.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Entities.Editor.dll
+ (0,0): [03-18-2019 09:30:38.161 PM] Unity.Entities.Editor.dll compilation finished in 295ms  source files re-parsed: 30 metadata reloaded: 1
+ (0,0): [03-18-2019 09:30:38.173 PM] Unity.Entities.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:30:38.362 PM] Unity.Transforms.Editor.dll: no prior compilation found in cache. Caller PID: 6028
+ (0,0): [03-18-2019 09:30:38.374 PM] Unity.Transforms.Editor.dll compiling...
+ (0,0): [03-18-2019 09:30:38.408 PM] Unity.Transforms.Editor.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Transforms.Editor.dll
+ (0,0): [03-18-2019 09:30:38.438 PM] Unity.Transforms.Editor.dll compilation finished in 64ms  source files re-parsed: 1 metadata reloaded: 1
+ (0,0): [03-18-2019 09:30:38.450 PM] Unity.Transforms.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:30:38.657 PM] Assembly-CSharp.dll compiling...
+ (0,0): [03-18-2019 09:30:38.699 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
+ (0,0): [03-18-2019 09:30:38.745 PM] Assembly-CSharp.dll compilation finished in 87ms  source files re-parsed: 0 metadata reloaded: 7
+ (0,0): [03-18-2019 09:30:38.757 PM] Assembly-CSharp.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:30:38.769 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:31:09.486 PM] Unity.Burst.dll: no prior compilation found in cache. Caller PID: 6028
+ (0,0): [03-18-2019 09:31:09.500 PM] Unity.Burst.dll compiling...
+ (0,0): [03-18-2019 09:31:09.526 PM] Unity.Mathematics.dll compiling...
+ (0,0): [03-18-2019 09:31:09.577 PM] Unity.Burst.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Burst.dll
+ (0,0): [03-18-2019 09:31:09.745 PM] Unity.Burst.dll compilation finished in 245ms  source files re-parsed: 5 metadata reloaded: 0
+ (0,0): [03-18-2019 09:31:09.758 PM] Unity.Burst.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:31:09.769 PM] Unity.Properties.dll compiling...
+ (0,0): [03-18-2019 09:31:09.786 PM] Unity.PackageManagerUI.Editor.dll compiling...
+ (0,0): [03-18-2019 09:31:09.848 PM] Unity.Entities.StaticTypeRegistry.dll compiling...
+ (0,0): [03-18-2019 09:31:09.962 PM] Unity.Entities.StaticTypeRegistry.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Entities.StaticTypeRegistry.dll
+ (0,0): [03-18-2019 09:31:10.145 PM] Unity.Entities.StaticTypeRegistry.dll compilation finished in 296ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [03-18-2019 09:31:10.180 PM] Unity.Entities.StaticTypeRegistry.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:31:10.257 PM] Unity.Entities.StaticTypeRegistry.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:31:10.204 PM] Unity.PackageManagerUI.Editor.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.PackageManagerUI.Editor.dll
+ (0,0): [03-18-2019 09:31:10.425 PM] Unity.Burst.Editor.dll: no prior compilation found in cache. Caller PID: 6028
+ (0,0): [03-18-2019 09:31:10.502 PM] Unity.Burst.Editor.dll compiling...
+ (0,0): [03-18-2019 09:31:10.593 PM] Unity.Properties.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Properties.dll
+ (0,0): [03-18-2019 09:31:10.970 PM] Unity.Burst.Editor.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Burst.Editor.dll
+ (0,0): [03-18-2019 09:31:10.976 PM] Unity.PackageManagerUI.Editor.dll compilation finished in 1189ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [03-18-2019 09:31:10.999 PM] Unity.PackageManagerUI.Editor.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:31:11.012 PM] Unity.PackageManagerUI.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:31:11.026 PM] Unity.Properties.dll compilation finished in 1256ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [03-18-2019 09:31:11.038 PM] Unity.Properties.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:31:11.050 PM] Unity.Properties.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:31:11.086 PM] Unity.Burst.Editor.dll compilation finished in 583ms  source files re-parsed: 10 metadata reloaded: 1
+ (0,0): [03-18-2019 09:31:11.106 PM] Unity.Burst.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:31:11.404 PM] Unity.Properties.Codegen.dll compiling...
+ (0,0): [03-18-2019 09:31:11.482 PM] Unity.Properties.Codegen.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Properties.Codegen.dll
+ (0,0): [03-18-2019 09:31:11.562 PM] Unity.Properties.Codegen.dll compilation finished in 158ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [03-18-2019 09:31:11.574 PM] Unity.Properties.Codegen.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:31:11.586 PM] Unity.Properties.Codegen.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:31:12.449 PM] Unity.Mathematics.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Mathematics.dll
+ (0,0): [03-18-2019 09:31:12.528 PM] Unity.Mathematics.dll compilation finished in 3000ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [03-18-2019 09:31:12.540 PM] Unity.Mathematics.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:31:12.552 PM] Unity.Mathematics.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:31:12.931 PM] Unity.Collections.dll compiling...
+ (0,0): [03-18-2019 09:31:13.025 PM] Unity.Mathematics.Editor.dll compiling...
+ (0,0): [03-18-2019 09:31:13.026 PM] Unity.Collections.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Collections.dll
+ (0,0): [03-18-2019 09:31:13.096 PM] Unity.Mathematics.Editor.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Mathematics.Editor.dll
+ (0,0): [03-18-2019 09:31:13.126 PM] Unity.Collections.dll compilation finished in 194ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [03-18-2019 09:31:13.139 PM] Unity.Collections.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:31:13.151 PM] Unity.Collections.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:31:13.157 PM] Unity.Mathematics.Editor.dll compilation finished in 131ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [03-18-2019 09:31:13.169 PM] Unity.Mathematics.Editor.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:31:13.181 PM] Unity.Mathematics.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:31:13.417 PM] Unity.Entities.dll compiling...
+ (0,0): [03-18-2019 09:31:13.535 PM] Unity.Jobs.dll compiling...
+ (0,0): [03-18-2019 09:31:13.616 PM] Unity.Jobs.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Jobs.dll
+ (0,0): [03-18-2019 09:31:13.667 PM] Unity.Collections.Tests.dll compiling...
+ (0,0): [03-18-2019 09:31:13.702 PM] Unity.Jobs.dll compilation finished in 167ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [03-18-2019 09:31:13.717 PM] Unity.Jobs.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:31:13.733 PM] Unity.Jobs.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:31:13.890 PM] Unity.Collections.Tests.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Collections.Tests.dll
+ (0,0): [03-18-2019 09:31:14.008 PM] Unity.Collections.Tests.dll compilation finished in 341ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [03-18-2019 09:31:14.021 PM] Unity.Collections.Tests.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:31:14.034 PM] Unity.Collections.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:31:14.178 PM] Unity.Jobs.Tests.dll compiling...
+ (0,0): [03-18-2019 09:31:14.227 PM] Unity.Jobs.Tests.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Jobs.Tests.dll
+ (0,0): [03-18-2019 09:31:14.255 PM] Unity.Entities.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Entities.dll
+ (0,0): [03-18-2019 09:31:14.273 PM] Unity.Jobs.Editor.dll compiling...
+ (0,0): [03-18-2019 09:31:14.273 PM] Unity.Jobs.Tests.dll compilation finished in 94ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [03-18-2019 09:31:14.297 PM] Unity.Jobs.Tests.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:31:14.309 PM] Unity.Jobs.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:31:14.310 PM] Unity.Jobs.Editor.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Jobs.Editor.dll
+ (0,0): [03-18-2019 09:31:14.345 PM] Unity.Jobs.Editor.dll compilation finished in 72ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [03-18-2019 09:31:14.357 PM] Unity.Jobs.Editor.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:31:14.368 PM] Unity.Jobs.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:31:14.404 PM] Unity.Entities.dll compilation finished in 986ms  source files re-parsed: 0 metadata reloaded: 2
+ (0,0): [03-18-2019 09:31:14.416 PM] Unity.Entities.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:31:14.428 PM] Unity.Entities.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:31:14.783 PM] Unity.Entities.Hybrid.dll compiling...
+ (0,0): [03-18-2019 09:31:14.851 PM] Unity.Entities.Hybrid.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Entities.Hybrid.dll
+ (0,0): [03-18-2019 09:31:14.883 PM] Unity.Transforms.dll compiling...
+ (0,0): [03-18-2019 09:31:14.919 PM] Unity.Entities.Hybrid.dll compilation finished in 135ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [03-18-2019 09:31:14.931 PM] Unity.Entities.Hybrid.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:31:14.962 PM] Unity.Entities.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:31:14.992 PM] Unity.Transforms.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Transforms.dll
+ (0,0): [03-18-2019 09:31:15.059 PM] Unity.Transforms.dll compilation finished in 176ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [03-18-2019 09:31:15.071 PM] Unity.Transforms.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:31:15.083 PM] Unity.Transforms.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:31:15.456 PM] Unity.Transforms.Hybrid.dll compiling...
+ (0,0): [03-18-2019 09:31:15.500 PM] Unity.Transforms.Hybrid.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Transforms.Hybrid.dll
+ (0,0): [03-18-2019 09:31:15.547 PM] Unity.Transforms.Hybrid.dll compilation finished in 91ms  source files re-parsed: 0 metadata reloaded: 2
+ (0,0): [03-18-2019 09:31:15.549 PM] Unity.Entities.Properties.dll compiling...
+ (0,0): [03-18-2019 09:31:15.560 PM] Unity.Transforms.Hybrid.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:31:15.571 PM] Unity.Transforms.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:31:15.617 PM] Unity.Entities.Properties.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Entities.Properties.dll
+ (0,0): [03-18-2019 09:31:15.684 PM] Unity.Entities.Properties.dll compilation finished in 134ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [03-18-2019 09:31:15.696 PM] Unity.Entities.Properties.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:31:15.708 PM] Unity.Entities.Properties.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:31:15.939 PM] Unity.Rendering.Hybrid.dll compiling...
+ (0,0): [03-18-2019 09:31:16.036 PM] Unity.Rendering.Hybrid.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Rendering.Hybrid.dll
+ (0,0): [03-18-2019 09:31:16.127 PM] Unity.Rendering.Hybrid.dll compilation finished in 187ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [03-18-2019 09:31:16.139 PM] Unity.Rendering.Hybrid.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:31:16.151 PM] Unity.Rendering.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:31:16.242 PM] Unity.Entities.Editor.dll compiling...
+ (0,0): [03-18-2019 09:31:16.371 PM] Unity.Entities.Editor.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Entities.Editor.dll
+ (0,0): [03-18-2019 09:31:16.456 PM] Unity.Entities.Editor.dll compilation finished in 213ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [03-18-2019 09:31:16.467 PM] Unity.Entities.Editor.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:31:16.478 PM] Unity.Entities.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:31:16.625 PM] Unity.Transforms.Editor.dll compiling...
+ (0,0): [03-18-2019 09:31:16.659 PM] Unity.Transforms.Editor.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Transforms.Editor.dll
+ (0,0): [03-18-2019 09:31:16.690 PM] Unity.Transforms.Editor.dll compilation finished in 64ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [03-18-2019 09:31:16.701 PM] Unity.Transforms.Editor.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:31:16.713 PM] Unity.Transforms.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:31:16.922 PM] Assembly-CSharp.dll compiling...
+ (0,0): [03-18-2019 09:31:16.959 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
+ (0,0): [03-18-2019 09:31:17.002 PM] Assembly-CSharp.dll compilation finished in 80ms  source files re-parsed: 0 metadata reloaded: 7
+ (0,0): [03-18-2019 09:31:17.014 PM] Assembly-CSharp.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:31:17.026 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:32:22.280 PM] Unity.Mathematics.dll compiling...
+ (0,0): [03-18-2019 09:32:22.298 PM] Unity.Entities.StaticTypeRegistry.dll compiling...
+ (0,0): [03-18-2019 09:32:22.403 PM] Unity.Entities.StaticTypeRegistry.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Entities.StaticTypeRegistry.dll
+ (0,0): [03-18-2019 09:32:22.493 PM] Unity.Entities.StaticTypeRegistry.dll compilation finished in 195ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [03-18-2019 09:32:22.506 PM] Unity.Entities.StaticTypeRegistry.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:32:22.549 PM] Unity.Entities.StaticTypeRegistry.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:32:22.570 PM] Unity.Burst.dll compiling...
+ (0,0): [03-18-2019 09:32:22.623 PM] Unity.PackageManagerUI.Editor.dll compiling...
+ (0,0): [03-18-2019 09:32:22.645 PM] Unity.Properties.dll compiling...
+ (0,0): [03-18-2019 09:32:22.688 PM] Unity.Burst.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Burst.dll
+ (0,0): [03-18-2019 09:32:22.847 PM] Unity.Burst.dll compilation finished in 276ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [03-18-2019 09:32:22.871 PM] Unity.Burst.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:32:22.903 PM] Unity.Burst.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:32:22.978 PM] Unity.PackageManagerUI.Editor.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.PackageManagerUI.Editor.dll
+ (0,0): [03-18-2019 09:32:23.194 PM] Unity.Properties.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Properties.dll
+ (0,0): [03-18-2019 09:32:23.297 PM] Unity.PackageManagerUI.Editor.dll compilation finished in 673ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [03-18-2019 09:32:23.336 PM] Unity.PackageManagerUI.Editor.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:32:23.390 PM] Unity.PackageManagerUI.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:32:23.433 PM] Unity.Burst.Editor.dll compiling...
+ (0,0): [03-18-2019 09:32:23.818 PM] Unity.Properties.dll compilation finished in 1175ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [03-18-2019 09:32:23.875 PM] Unity.Burst.Editor.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Burst.Editor.dll
+ (0,0): [03-18-2019 09:32:23.907 PM] Unity.Properties.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:32:23.924 PM] Unity.Properties.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:32:23.985 PM] Unity.Burst.Editor.dll compilation finished in 551ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [03-18-2019 09:32:23.998 PM] Unity.Burst.Editor.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:32:24.010 PM] Unity.Burst.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:32:24.222 PM] Unity.Properties.Codegen.dll compiling...
+ (0,0): [03-18-2019 09:32:24.291 PM] Unity.Properties.Codegen.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Properties.Codegen.dll
+ (0,0): [03-18-2019 09:32:24.361 PM] Unity.Properties.Codegen.dll compilation finished in 138ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [03-18-2019 09:32:24.372 PM] Unity.Properties.Codegen.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:32:24.384 PM] Unity.Properties.Codegen.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:32:25.050 PM] Unity.Mathematics.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Mathematics.dll
+ (0,0): [03-18-2019 09:32:25.118 PM] Unity.Mathematics.dll compilation finished in 2838ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [03-18-2019 09:32:25.131 PM] Unity.Mathematics.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:32:25.143 PM] Unity.Mathematics.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:32:25.532 PM] Unity.Collections.dll compiling...
+ (0,0): [03-18-2019 09:32:25.625 PM] Unity.Collections.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Collections.dll
+ (0,0): [03-18-2019 09:32:25.636 PM] Unity.Mathematics.Editor.dll compiling...
+ (0,0): [03-18-2019 09:32:25.696 PM] Unity.Mathematics.Editor.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Mathematics.Editor.dll
+ (0,0): [03-18-2019 09:32:25.696 PM] Unity.Collections.dll compilation finished in 164ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [03-18-2019 09:32:25.720 PM] Unity.Collections.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:32:25.732 PM] Unity.Collections.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:32:25.743 PM] Unity.Mathematics.Editor.dll compilation finished in 107ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [03-18-2019 09:32:25.755 PM] Unity.Mathematics.Editor.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:32:25.767 PM] Unity.Mathematics.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:32:26.018 PM] Unity.Entities.dll compiling...
+ (0,0): [03-18-2019 09:32:26.110 PM] Unity.Jobs.dll compiling...
+ (0,0): [03-18-2019 09:32:26.215 PM] Unity.Collections.Tests.dll compiling...
+ (0,0): [03-18-2019 09:32:26.215 PM] Unity.Jobs.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Jobs.dll
+ (0,0): [03-18-2019 09:32:26.362 PM] Unity.Jobs.dll compilation finished in 251ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [03-18-2019 09:32:26.374 PM] Unity.Jobs.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:32:26.399 PM] Unity.Jobs.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:32:26.531 PM] Unity.Collections.Tests.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Collections.Tests.dll
+ (0,0): [03-18-2019 09:32:26.741 PM] Unity.Collections.Tests.dll compilation finished in 525ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [03-18-2019 09:32:26.775 PM] Unity.Collections.Tests.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:32:26.781 PM] Unity.Jobs.Tests.dll compiling...
+ (0,0): [03-18-2019 09:32:26.787 PM] Unity.Collections.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:32:26.833 PM] Unity.Jobs.Tests.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Jobs.Tests.dll
+ (0,0): [03-18-2019 09:32:26.848 PM] Unity.Jobs.Editor.dll compiling...
+ (0,0): [03-18-2019 09:32:26.892 PM] Unity.Jobs.Tests.dll compilation finished in 110ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [03-18-2019 09:32:26.897 PM] Unity.Jobs.Editor.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Jobs.Editor.dll
+ (0,0): [03-18-2019 09:32:26.904 PM] Unity.Jobs.Tests.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:32:26.916 PM] Unity.Jobs.Tests.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:32:26.931 PM] Unity.Jobs.Editor.dll compilation finished in 83ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [03-18-2019 09:32:26.949 PM] Unity.Jobs.Editor.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:32:26.961 PM] Unity.Jobs.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:32:26.977 PM] Unity.Entities.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Entities.dll
+ (0,0): [03-18-2019 09:32:27.102 PM] Unity.Entities.dll compilation finished in 1084ms  source files re-parsed: 0 metadata reloaded: 2
+ (0,0): [03-18-2019 09:32:27.114 PM] Unity.Entities.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:32:27.126 PM] Unity.Entities.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:32:27.388 PM] Unity.Entities.Hybrid.dll compiling...
+ (0,0): [03-18-2019 09:32:27.465 PM] Unity.Entities.Hybrid.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Entities.Hybrid.dll
+ (0,0): [03-18-2019 09:32:27.477 PM] Unity.Transforms.dll compiling...
+ (0,0): [03-18-2019 09:32:27.561 PM] Unity.Entities.Hybrid.dll compilation finished in 173ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [03-18-2019 09:32:27.587 PM] Unity.Entities.Hybrid.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:32:27.596 PM] Unity.Transforms.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Transforms.dll
+ (0,0): [03-18-2019 09:32:27.601 PM] Unity.Entities.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:32:27.660 PM] Unity.Transforms.dll compilation finished in 182ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [03-18-2019 09:32:27.672 PM] Unity.Transforms.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:32:27.684 PM] Unity.Transforms.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:32:28.187 PM] Unity.Transforms.Hybrid.dll compiling...
+ (0,0): [03-18-2019 09:32:28.230 PM] Unity.Transforms.Hybrid.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Transforms.Hybrid.dll
+ (0,0): [03-18-2019 09:32:28.277 PM] Unity.Transforms.Hybrid.dll compilation finished in 90ms  source files re-parsed: 0 metadata reloaded: 2
+ (0,0): [03-18-2019 09:32:28.290 PM] Unity.Transforms.Hybrid.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:32:28.290 PM] Unity.Entities.Properties.dll compiling...
+ (0,0): [03-18-2019 09:32:28.301 PM] Unity.Transforms.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:32:28.369 PM] Unity.Entities.Properties.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Entities.Properties.dll
+ (0,0): [03-18-2019 09:32:28.435 PM] Unity.Entities.Properties.dll compilation finished in 144ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [03-18-2019 09:32:28.447 PM] Unity.Entities.Properties.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:32:28.459 PM] Unity.Entities.Properties.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:32:28.690 PM] Unity.Rendering.Hybrid.dll compiling...
+ (0,0): [03-18-2019 09:32:28.784 PM] Unity.Rendering.Hybrid.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Rendering.Hybrid.dll
+ (0,0): [03-18-2019 09:32:28.876 PM] Unity.Rendering.Hybrid.dll compilation finished in 185ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [03-18-2019 09:32:28.888 PM] Unity.Rendering.Hybrid.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:32:28.900 PM] Unity.Rendering.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:32:28.978 PM] Unity.Entities.Editor.dll compiling...
+ (0,0): [03-18-2019 09:32:29.112 PM] Unity.Entities.Editor.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Entities.Editor.dll
+ (0,0): [03-18-2019 09:32:29.202 PM] Unity.Entities.Editor.dll compilation finished in 223ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [03-18-2019 09:32:29.214 PM] Unity.Entities.Editor.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:32:29.234 PM] Unity.Entities.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:32:29.375 PM] Unity.Transforms.Editor.dll compiling...
+ (0,0): [03-18-2019 09:32:29.410 PM] Unity.Transforms.Editor.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Unity.Transforms.Editor.dll
+ (0,0): [03-18-2019 09:32:29.442 PM] Unity.Transforms.Editor.dll compilation finished in 66ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [03-18-2019 09:32:29.454 PM] Unity.Transforms.Editor.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:32:29.465 PM] Unity.Transforms.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:32:29.675 PM] Assembly-CSharp.dll compiling...
+ (0,0): [03-18-2019 09:32:29.713 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\dylan\Projects\Unity-ECS-Test\ECS Test\Temp\Assembly-CSharp.dll
+ (0,0): [03-18-2019 09:32:29.761 PM] Assembly-CSharp.dll compilation finished in 85ms  source files re-parsed: 0 metadata reloaded: 7
+ (0,0): [03-18-2019 09:32:29.773 PM] Assembly-CSharp.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 6028
+ (0,0): [03-18-2019 09:32:29.784 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 6028
+ (0,0): [03-18-2019 09:34:22.883 PM] Compiler cache size is now 18.85 MB
+ (0,0): [03-18-2019 09:38:02.370 PM] watchdog triggered an exit

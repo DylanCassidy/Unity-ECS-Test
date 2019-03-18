@@ -302,15 +302,14 @@
 -d:ENABLE_VSTU
 -d:CSHARP_7_OR_LATER
 -d:CSHARP_7_3_OR_NEWER
--i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.burst@0.2.4-preview.45/Editor/BurstAotCompiler.cs"
--i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.burst@0.2.4-preview.45/Editor/BurstAotSettings.cs"
--i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.burst@0.2.4-preview.45/Editor/BurstCompilerOptions.cs"
--i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.burst@0.2.4-preview.45/Editor/BurstCompileTarget.cs"
--i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.burst@0.2.4-preview.45/Editor/BurstDisassembler.cs"
--i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.burst@0.2.4-preview.45/Editor/BurstEditorOptions.cs"
--i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.burst@0.2.4-preview.45/Editor/BurstInspectorGUI.cs"
--i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.burst@0.2.4-preview.45/Editor/BurstLoader.cs"
--i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.burst@0.2.4-preview.45/Editor/BurstMenu.cs"
--i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.burst@0.2.4-preview.45/Editor/BurstReflection.cs"
--i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.burst@0.2.4-preview.45/Editor/LongTextArea.cs"
+-i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.burst@1.0.0-preview.6/Editor/BurstAotCompiler.cs"
+-i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.burst@1.0.0-preview.6/Editor/BurstAotSettings.cs"
+-i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.burst@1.0.0-preview.6/Editor/BurstCompileTarget.cs"
+-i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.burst@1.0.0-preview.6/Editor/BurstDisassembler.cs"
+-i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.burst@1.0.0-preview.6/Editor/BurstEditorOptions.cs"
+-i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.burst@1.0.0-preview.6/Editor/BurstInspectorGUI.cs"
+-i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.burst@1.0.0-preview.6/Editor/BurstLoader.cs"
+-i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.burst@1.0.0-preview.6/Editor/BurstMenu.cs"
+-i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.burst@1.0.0-preview.6/Editor/BurstReflection.cs"
+-i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.burst@1.0.0-preview.6/Editor/LongTextArea.cs"
 -v:0

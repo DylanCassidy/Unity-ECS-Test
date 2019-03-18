@@ -302,8 +302,8 @@
 -d:ENABLE_VSTU
 -d:CSHARP_7_OR_LATER
 -d:CSHARP_7_3_OR_NEWER
--i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.mathematics@0.0.12-preview.20/Unity.Mathematics.Editor/MatrixDrawer.cs"
--i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.mathematics@0.0.12-preview.20/Unity.Mathematics.Editor/PostNormalizedVectorDrawer.cs"
--i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.mathematics@0.0.12-preview.20/Unity.Mathematics.Editor/PrimitiveVectorDrawer.cs"
--i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.mathematics@0.0.12-preview.20/Unity.Mathematics.Editor/QuaternionDrawer.cs"
+-i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.mathematics@1.0.0-preview.1/Unity.Mathematics.Editor/MatrixDrawer.cs"
+-i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.mathematics@1.0.0-preview.1/Unity.Mathematics.Editor/PostNormalizedVectorDrawer.cs"
+-i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.mathematics@1.0.0-preview.1/Unity.Mathematics.Editor/PrimitiveVectorDrawer.cs"
+-i:"C:/Users/dylan/Projects/Unity-ECS-Test/ECS Test/Library/PackageCache/com.unity.mathematics@1.0.0-preview.1/Unity.Mathematics.Editor/QuaternionDrawer.cs"
 -v:0
